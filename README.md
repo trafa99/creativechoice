@@ -11,6 +11,12 @@ Projetos realizados no meu período de experiência na Creative Choice Mídias D
 
 https://www.paulodeives.adv.br/
 
+# Açaí Magnífico
+
+- Atualização da landing page da empresa.
+
+https://acaimagnifico.com.br/
+
 ## Criados com
 
 * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
