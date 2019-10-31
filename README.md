@@ -3,6 +3,7 @@ Projetos realizados no meu período de experiência na Creative Choice Mídias D
 # Mayara Moraes - Nutricionista
 
 - Criação da identidade visual, logo e cartão de visita da nutricionista.
+
 - https://nutricionistamayara.com.br/
 
 # Paulo Deives - Advogado
@@ -13,9 +14,15 @@ https://www.paulodeives.adv.br/
 
 # Açaí Magnífico
 
-- Atualização da landing page da empresa.
+- Atualização da página da empresa.
 
 https://acaimagnifico.com.br/
+
+# Empório Silvestre - Site da Loja
+
+- Repaginação do site da loja.
+
+http://emporiosilvestre.com.br/
 
 ## Criados com
 
