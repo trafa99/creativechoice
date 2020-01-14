@@ -18,9 +18,9 @@ https://www.paulodeives.adv.br/
 
 https://acaimagnifico.com.br/
 
-# Empório Silvestre (Em construção - 27/11 a 07/12)
+# Empório Silvestre (Em construção)
 
-- Repaginação do site da loja.
+- Repaginação do site da loja e criação do logo.
 
 http://emporiosilvestre.com.br/
 
