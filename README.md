@@ -18,12 +18,6 @@ https://www.paulodeives.adv.br/
 
 https://acaimagnifico.com.br/
 
-# Empório Silvestre (Em construção)
-
-- Repaginação do site da loja e criação do logo.
-
-http://emporiosilvestre.com.br/
-
 ## Criados com
 
 * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
