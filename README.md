@@ -24,3 +24,7 @@ https://acaimagnifico.com.br/
 * [Material Design](https://mdbootstrap.com/)
 * [JQuery UI](https://jqueryui.com/)
 * [JQuery Mobile](https://jquerymobile.com/)
+
+## Design Gráfico
+
+Peças gráficas criadas por mim se encontram no link: https://www.flickr.com/photos/trafa99/
