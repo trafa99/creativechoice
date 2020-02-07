@@ -1,4 +1,4 @@
-Projetos realizados no meu período de experiência na Creative Choice Mídias Digitais (21-10-2019 - atualmente)
+Projetos realizados no meu período de experiência na Creative Choice Mídias Digitais (21-10-2019 - 02/2020)
 
 # Mayara Moraes - Nutricionista
 
