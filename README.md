@@ -1,17 +1,5 @@
 Projetos realizados no meu período de experiência na Creative Choice Mídias Digitais (21-10-2019 - 02/2020)
 
-# Mayara Moraes - Nutricionista
-
-- Criação da identidade visual, logo e cartão de visita da nutricionista.
-
-- https://nutricionistamayara.com.br/
-
-# Paulo Deives - Advogado
-
-- Criação da identidade visual, logo e cartão de visita do advogado.
-
-https://www.paulodeives.adv.br/
-
 # Açaí Magnífico
 
 - Atualização da página da empresa.
